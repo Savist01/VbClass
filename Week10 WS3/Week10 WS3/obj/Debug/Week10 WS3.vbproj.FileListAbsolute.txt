@@ -1,0 +1,12 @@
+c:\users\58121008-5\source\repos\Week10 WS3\Week10 WS3\bin\Debug\Week10 WS3.exe.config
+c:\users\58121008-5\source\repos\Week10 WS3\Week10 WS3\bin\Debug\Week10 WS3.exe
+c:\users\58121008-5\source\repos\Week10 WS3\Week10 WS3\bin\Debug\Week10 WS3.pdb
+c:\users\58121008-5\source\repos\Week10 WS3\Week10 WS3\bin\Debug\Week10 WS3.xml
+c:\users\58121008-5\source\repos\Week10 WS3\Week10 WS3\obj\Debug\Week10 WS3.vbprojResolveAssemblyReference.cache
+c:\users\58121008-5\source\repos\Week10 WS3\Week10 WS3\obj\Debug\Week10_WS3.Form1.resources
+c:\users\58121008-5\source\repos\Week10 WS3\Week10 WS3\obj\Debug\Week10_WS3.Resources.resources
+c:\users\58121008-5\source\repos\Week10 WS3\Week10 WS3\obj\Debug\Week10 WS3.vbproj.GenerateResource.cache
+c:\users\58121008-5\source\repos\Week10 WS3\Week10 WS3\obj\Debug\Week10 WS3.vbproj.CoreCompileInputs.cache
+c:\users\58121008-5\source\repos\Week10 WS3\Week10 WS3\obj\Debug\Week10 WS3.exe
+c:\users\58121008-5\source\repos\Week10 WS3\Week10 WS3\obj\Debug\Week10 WS3.xml
+c:\users\58121008-5\source\repos\Week10 WS3\Week10 WS3\obj\Debug\Week10 WS3.pdb

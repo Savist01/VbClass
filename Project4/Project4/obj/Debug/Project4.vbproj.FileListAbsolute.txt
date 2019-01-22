@@ -1,0 +1,11 @@
+c:\users\58121008-5\source\repos\Project4\Project4\bin\Debug\Project4.exe.config
+c:\users\58121008-5\source\repos\Project4\Project4\bin\Debug\Project4.exe
+c:\users\58121008-5\source\repos\Project4\Project4\bin\Debug\Project4.pdb
+c:\users\58121008-5\source\repos\Project4\Project4\bin\Debug\Project4.xml
+c:\users\58121008-5\source\repos\Project4\Project4\obj\Debug\Project4.Form1.resources
+c:\users\58121008-5\source\repos\Project4\Project4\obj\Debug\Project4.Resources.resources
+c:\users\58121008-5\source\repos\Project4\Project4\obj\Debug\Project4.vbproj.GenerateResource.cache
+c:\users\58121008-5\source\repos\Project4\Project4\obj\Debug\Project4.vbproj.CoreCompileInputs.cache
+c:\users\58121008-5\source\repos\Project4\Project4\obj\Debug\Project4.exe
+c:\users\58121008-5\source\repos\Project4\Project4\obj\Debug\Project4.xml
+c:\users\58121008-5\source\repos\Project4\Project4\obj\Debug\Project4.pdb

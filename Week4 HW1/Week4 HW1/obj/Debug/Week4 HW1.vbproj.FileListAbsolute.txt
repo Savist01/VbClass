@@ -1,0 +1,12 @@
+c:\users\58121008-5\source\repos\Week4 HW1\Week4 HW1\bin\Debug\Week4 HW1.exe.config
+c:\users\58121008-5\source\repos\Week4 HW1\Week4 HW1\bin\Debug\Week4 HW1.exe
+c:\users\58121008-5\source\repos\Week4 HW1\Week4 HW1\bin\Debug\Week4 HW1.pdb
+c:\users\58121008-5\source\repos\Week4 HW1\Week4 HW1\bin\Debug\Week4 HW1.xml
+c:\users\58121008-5\source\repos\Week4 HW1\Week4 HW1\obj\Debug\Week4 HW1.vbprojResolveAssemblyReference.cache
+c:\users\58121008-5\source\repos\Week4 HW1\Week4 HW1\obj\Debug\Week4_HW1.Form1.resources
+c:\users\58121008-5\source\repos\Week4 HW1\Week4 HW1\obj\Debug\Week4_HW1.Resources.resources
+c:\users\58121008-5\source\repos\Week4 HW1\Week4 HW1\obj\Debug\Week4 HW1.vbproj.GenerateResource.cache
+c:\users\58121008-5\source\repos\Week4 HW1\Week4 HW1\obj\Debug\Week4 HW1.vbproj.CoreCompileInputs.cache
+c:\users\58121008-5\source\repos\Week4 HW1\Week4 HW1\obj\Debug\Week4 HW1.exe
+c:\users\58121008-5\source\repos\Week4 HW1\Week4 HW1\obj\Debug\Week4 HW1.xml
+c:\users\58121008-5\source\repos\Week4 HW1\Week4 HW1\obj\Debug\Week4 HW1.pdb

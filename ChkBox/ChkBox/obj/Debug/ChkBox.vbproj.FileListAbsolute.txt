@@ -1,0 +1,11 @@
+c:\users\58121008-5\source\repos\ChkBox\ChkBox\bin\Debug\ChkBox.exe.config
+c:\users\58121008-5\source\repos\ChkBox\ChkBox\bin\Debug\ChkBox.exe
+c:\users\58121008-5\source\repos\ChkBox\ChkBox\bin\Debug\ChkBox.pdb
+c:\users\58121008-5\source\repos\ChkBox\ChkBox\bin\Debug\ChkBox.xml
+c:\users\58121008-5\source\repos\ChkBox\ChkBox\obj\Debug\ChkBox.Form1.resources
+c:\users\58121008-5\source\repos\ChkBox\ChkBox\obj\Debug\ChkBox.Resources.resources
+c:\users\58121008-5\source\repos\ChkBox\ChkBox\obj\Debug\ChkBox.vbproj.GenerateResource.cache
+c:\users\58121008-5\source\repos\ChkBox\ChkBox\obj\Debug\ChkBox.vbproj.CoreCompileInputs.cache
+c:\users\58121008-5\source\repos\ChkBox\ChkBox\obj\Debug\ChkBox.exe
+c:\users\58121008-5\source\repos\ChkBox\ChkBox\obj\Debug\ChkBox.xml
+c:\users\58121008-5\source\repos\ChkBox\ChkBox\obj\Debug\ChkBox.pdb

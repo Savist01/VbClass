@@ -1,0 +1,12 @@
+C:\Users\58121008-5\source\repos\Week8 WindowsFormSample\Week8 WindowsFormSample\bin\Debug\Week8 WindowsFormSample.exe.config
+C:\Users\58121008-5\source\repos\Week8 WindowsFormSample\Week8 WindowsFormSample\bin\Debug\Week8 WindowsFormSample.exe
+C:\Users\58121008-5\source\repos\Week8 WindowsFormSample\Week8 WindowsFormSample\bin\Debug\Week8 WindowsFormSample.pdb
+C:\Users\58121008-5\source\repos\Week8 WindowsFormSample\Week8 WindowsFormSample\bin\Debug\Week8 WindowsFormSample.xml
+C:\Users\58121008-5\source\repos\Week8 WindowsFormSample\Week8 WindowsFormSample\obj\Debug\Week8 WindowsFormSample.vbprojResolveAssemblyReference.cache
+C:\Users\58121008-5\source\repos\Week8 WindowsFormSample\Week8 WindowsFormSample\obj\Debug\Week8_WindowsFormSample.Form1.resources
+C:\Users\58121008-5\source\repos\Week8 WindowsFormSample\Week8 WindowsFormSample\obj\Debug\Week8_WindowsFormSample.Resources.resources
+C:\Users\58121008-5\source\repos\Week8 WindowsFormSample\Week8 WindowsFormSample\obj\Debug\Week8 WindowsFormSample.vbproj.GenerateResource.cache
+C:\Users\58121008-5\source\repos\Week8 WindowsFormSample\Week8 WindowsFormSample\obj\Debug\Week8 WindowsFormSample.vbproj.CoreCompileInputs.cache
+C:\Users\58121008-5\source\repos\Week8 WindowsFormSample\Week8 WindowsFormSample\obj\Debug\Week8 WindowsFormSample.exe
+C:\Users\58121008-5\source\repos\Week8 WindowsFormSample\Week8 WindowsFormSample\obj\Debug\Week8 WindowsFormSample.xml
+C:\Users\58121008-5\source\repos\Week8 WindowsFormSample\Week8 WindowsFormSample\obj\Debug\Week8 WindowsFormSample.pdb

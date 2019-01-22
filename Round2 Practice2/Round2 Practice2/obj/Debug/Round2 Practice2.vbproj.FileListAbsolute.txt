@@ -1,0 +1,12 @@
+c:\users\58121008-5\source\repos\Round2 Practice2\Round2 Practice2\bin\Debug\Round2 Practice2.exe.config
+c:\users\58121008-5\source\repos\Round2 Practice2\Round2 Practice2\bin\Debug\Round2 Practice2.exe
+c:\users\58121008-5\source\repos\Round2 Practice2\Round2 Practice2\bin\Debug\Round2 Practice2.pdb
+c:\users\58121008-5\source\repos\Round2 Practice2\Round2 Practice2\bin\Debug\Round2 Practice2.xml
+c:\users\58121008-5\source\repos\Round2 Practice2\Round2 Practice2\obj\Debug\Round2 Practice2.vbprojResolveAssemblyReference.cache
+c:\users\58121008-5\source\repos\Round2 Practice2\Round2 Practice2\obj\Debug\Round2_Practice2.Form1.resources
+c:\users\58121008-5\source\repos\Round2 Practice2\Round2 Practice2\obj\Debug\Round2_Practice2.Resources.resources
+c:\users\58121008-5\source\repos\Round2 Practice2\Round2 Practice2\obj\Debug\Round2 Practice2.vbproj.GenerateResource.cache
+c:\users\58121008-5\source\repos\Round2 Practice2\Round2 Practice2\obj\Debug\Round2 Practice2.vbproj.CoreCompileInputs.cache
+c:\users\58121008-5\source\repos\Round2 Practice2\Round2 Practice2\obj\Debug\Round2 Practice2.exe
+c:\users\58121008-5\source\repos\Round2 Practice2\Round2 Practice2\obj\Debug\Round2 Practice2.xml
+c:\users\58121008-5\source\repos\Round2 Practice2\Round2 Practice2\obj\Debug\Round2 Practice2.pdb

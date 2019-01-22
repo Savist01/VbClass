@@ -1,0 +1,11 @@
+c:\users\58121008-5\source\repos\Week7 WS2\Week7 WS2\bin\Debug\Week7 WS2.exe.config
+c:\users\58121008-5\source\repos\Week7 WS2\Week7 WS2\bin\Debug\Week7 WS2.exe
+c:\users\58121008-5\source\repos\Week7 WS2\Week7 WS2\bin\Debug\Week7 WS2.pdb
+c:\users\58121008-5\source\repos\Week7 WS2\Week7 WS2\bin\Debug\Week7 WS2.xml
+c:\users\58121008-5\source\repos\Week7 WS2\Week7 WS2\obj\Debug\Week7_WS2.Form1.resources
+c:\users\58121008-5\source\repos\Week7 WS2\Week7 WS2\obj\Debug\Week7_WS2.Resources.resources
+c:\users\58121008-5\source\repos\Week7 WS2\Week7 WS2\obj\Debug\Week7 WS2.vbproj.GenerateResource.cache
+c:\users\58121008-5\source\repos\Week7 WS2\Week7 WS2\obj\Debug\Week7 WS2.vbproj.CoreCompileInputs.cache
+c:\users\58121008-5\source\repos\Week7 WS2\Week7 WS2\obj\Debug\Week7 WS2.exe
+c:\users\58121008-5\source\repos\Week7 WS2\Week7 WS2\obj\Debug\Week7 WS2.xml
+c:\users\58121008-5\source\repos\Week7 WS2\Week7 WS2\obj\Debug\Week7 WS2.pdb

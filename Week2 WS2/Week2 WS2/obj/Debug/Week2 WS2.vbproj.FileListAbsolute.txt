@@ -1,0 +1,12 @@
+c:\users\58121008-5\source\repos\Week2 WS2\Week2 WS2\bin\Debug\Week2 WS2.exe.config
+c:\users\58121008-5\source\repos\Week2 WS2\Week2 WS2\bin\Debug\Week2 WS2.exe
+c:\users\58121008-5\source\repos\Week2 WS2\Week2 WS2\bin\Debug\Week2 WS2.pdb
+c:\users\58121008-5\source\repos\Week2 WS2\Week2 WS2\bin\Debug\Week2 WS2.xml
+c:\users\58121008-5\source\repos\Week2 WS2\Week2 WS2\obj\Debug\Week2 WS2.vbprojResolveAssemblyReference.cache
+c:\users\58121008-5\source\repos\Week2 WS2\Week2 WS2\obj\Debug\Week2_WS2.Form1.resources
+c:\users\58121008-5\source\repos\Week2 WS2\Week2 WS2\obj\Debug\Week2_WS2.Resources.resources
+c:\users\58121008-5\source\repos\Week2 WS2\Week2 WS2\obj\Debug\Week2 WS2.vbproj.GenerateResource.cache
+c:\users\58121008-5\source\repos\Week2 WS2\Week2 WS2\obj\Debug\Week2 WS2.vbproj.CoreCompileInputs.cache
+c:\users\58121008-5\source\repos\Week2 WS2\Week2 WS2\obj\Debug\Week2 WS2.exe
+c:\users\58121008-5\source\repos\Week2 WS2\Week2 WS2\obj\Debug\Week2 WS2.xml
+c:\users\58121008-5\source\repos\Week2 WS2\Week2 WS2\obj\Debug\Week2 WS2.pdb

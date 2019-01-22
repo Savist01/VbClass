@@ -1,0 +1,12 @@
+c:\users\58121008-5\source\repos\Test\Test\bin\Debug\Test.exe.config
+c:\users\58121008-5\source\repos\Test\Test\bin\Debug\Test.exe
+c:\users\58121008-5\source\repos\Test\Test\bin\Debug\Test.pdb
+c:\users\58121008-5\source\repos\Test\Test\bin\Debug\Test.xml
+c:\users\58121008-5\source\repos\Test\Test\obj\Debug\Test.vbprojResolveAssemblyReference.cache
+c:\users\58121008-5\source\repos\Test\Test\obj\Debug\Test.Form1.resources
+c:\users\58121008-5\source\repos\Test\Test\obj\Debug\Test.Resources.resources
+c:\users\58121008-5\source\repos\Test\Test\obj\Debug\Test.vbproj.GenerateResource.cache
+c:\users\58121008-5\source\repos\Test\Test\obj\Debug\Test.vbproj.CoreCompileInputs.cache
+c:\users\58121008-5\source\repos\Test\Test\obj\Debug\Test.exe
+c:\users\58121008-5\source\repos\Test\Test\obj\Debug\Test.xml
+c:\users\58121008-5\source\repos\Test\Test\obj\Debug\Test.pdb
